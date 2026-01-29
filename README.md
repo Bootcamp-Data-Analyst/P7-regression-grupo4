@@ -1,4 +1,25 @@
-# 🚗 Predicción de precios de coches usados — EDA, optimización y dashboard  
+<h1 align="center">Predicción de precios de coches usados — EDA, optimización y dashboard</h1>
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/6838e7d4-2aca-4d31-b8cc-5f211cc0a53f"
+    alt="Predicción de precios de coches usados - Dashboard"
+    width="420"
+    style="
+      max-width: 90%;
+      height: auto;
+      border-radius: 14px;
+      box-shadow: 0 10px 24px rgba(0,0,0,0.18);
+      border: 1px solid rgba(0,0,0,0.08);
+    "
+  />
+</p>
+
+<p align="center">
+  <sub><b>EDA</b> · Optimización · Dashboard interactivo</sub>
+</p>
+
+
 
 # 1. 🧠 Resumen ejecutivo
 
